@@ -1,0 +1,9 @@
+[account]
+username = Aaa
+password = Bbb
+
+[handset]
+apple = Iphone6s
+huawei = mate9
+meizu = mx4
+
