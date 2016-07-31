@@ -15,5 +15,8 @@
   <project path="flyme/release" name="FlymeOS/flyme-release"/>
   <project path="flyme/overlay" name="FlymeOS/flyme-overlay" />
   <project path="devices/base" name="FlymeOS/devices-base" />
+  <project name="aaa" />
+  <project path="bbb" name="bbb/111" revision="111" />
+  <project path="ccc" name="ccc/111" remote="handset" />
 </manifest>
 
