@@ -1,4 +1,4 @@
-mp : 多进程应用
+mp : 多线程应用
 parse-config : 用来解析配置文件
 parse-xml : 用来解析xml文件
 url-common : 简单爬虫
