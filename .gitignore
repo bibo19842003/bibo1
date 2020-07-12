@@ -1,5 +1,7 @@
+*.mp4
 *~
 *.pyc
 *test*
 *.jpg
+*.jpeg
 *.png
