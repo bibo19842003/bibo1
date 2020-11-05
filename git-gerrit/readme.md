@@ -6,3 +6,4 @@
 | 4 | git-env.sh | git 环境配置脚本 |  |
 | 5 | gerrit-log-ana.config | gerrit log 解析的配置文件脚本 |  |
 | 6 | gerrit-log.py | gerrit log 解析的脚本 |  |
+| 7 | monitor-log.py | 动态监视 log 文件 |  |
